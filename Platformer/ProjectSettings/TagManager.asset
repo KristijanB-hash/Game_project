@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spikes
+  - Tilemap
+  - GM
+  - Enemy
+  - Ground
+  - Bullet
+  - HurtsThePlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Action
+  - BulletLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Pozadina
+    uniqueID: 507927737
+    locked: 0
+  - name: Sredina
+    uniqueID: 1240737479
+    locked: 0
+  - name: ZA treva/Snow
+    uniqueID: 2104182387
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4152006047
+    locked: 0
+  - name: New Layer
+    uniqueID: 2558135451
+    locked: 0
